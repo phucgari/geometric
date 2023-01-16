@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="168d64ce-0994-4277-9591-3e0af20e5ae0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComparableCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleAreaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleComparatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
       <updated>1673510723540</updated>
       <workItem from="1673510724757" duration="3362000" />
       <workItem from="1673782297423" duration="1160000" />
+      <workItem from="1673842953035" duration="2258000" />
     </task>
     <servers />
   </component>
