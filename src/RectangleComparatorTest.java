@@ -19,6 +19,5 @@ public class RectangleComparatorTest {
                 System.out.println("rec1>rec2");
                 break;
         };
-
     }
 }
