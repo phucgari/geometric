@@ -1,23 +1,24 @@
 public class Square extends Rectangle{
+    double side;
     Square(){}
     public Square(double side) {
         super(side, side);
+        this.side=side;
     }
     public Square(String c,boolean f,double side){
         super(c,f,side,side);
+        this.side=side;
 
     }
 
-    @Override
-    public void setWidth(double amount) {
-        super.setWidth(amount);
-        super.setLength(amount);
+    public double getSide() {
+        return side;
     }
 
-    @Override
-    public void setLength(double amount) {
-        super.setLength(amount);
-        super.setLength(amount);
+    public void setSide(double side) {
+        this.side = side;
+        super.setWidth(side);
+        super.setLength(side);
     }
 
     @Override
